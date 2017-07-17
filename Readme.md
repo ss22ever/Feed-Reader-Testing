@@ -4,11 +4,12 @@ In this project we are given a web-based application that reads RSS feeds. The o
 
 # How to View
 
-Download the Zip File on Your Computer and Open 'index.html' in Your Browser.
+Open 'index.html' in Your Browser.
 
 
 #Resources
 
 JavaScript Testing [course](https://www.udacity.com/course/ud549)
 [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
+
 Live at https://ss22ever.github.io/Feed-Reader-Testing
